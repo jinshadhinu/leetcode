@@ -8,4 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/jinshadhinu/leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0595-big-countries](https://github.com/jinshadhinu/leetcode/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/jinshadhinu/leetcode/tree/main/1148-article-views-i/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/jinshadhinu/leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/jinshadhinu/leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
