@@ -30,4 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jinshadhinu/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/jinshadhinu/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/jinshadhinu/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/jinshadhinu/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
