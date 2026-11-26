@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/jinshadhinu/leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/jinshadhinu/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1934-confirmation-rate](https://github.com/jinshadhinu/leetcode/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/jinshadhinu/leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
