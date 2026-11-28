@@ -34,14 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jinshadhinu/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/jinshadhinu/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jinshadhinu/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/jinshadhinu/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/jinshadhinu/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jinshadhinu/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/jinshadhinu/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
